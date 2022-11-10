@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://harveyitismedocs.com/</loc>
+         <lastmod>2022-11-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://harveyitismedocs.com/about/</loc>
+         <lastmod>2022-11-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://harveyitismedocs.com/data_engineering/</loc>
+         <lastmod>2022-11-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://harveyitismedocs.com/home-automation/home_assistant_getting_started/</loc>
+         <lastmod>2022-11-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>

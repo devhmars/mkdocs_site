@@ -1,0 +1,14 @@
+version: '3'
+
+tasks:
+  serve:
+    cmds:
+      - mkdocs serve
+
+  build:
+    cmds:
+       - mkdocs build
+  
+  create:
+    cmds:
+      - touch 
