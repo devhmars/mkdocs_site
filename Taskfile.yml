@@ -1,0 +1,19 @@
+version: '3'
+
+tasks:
+  serve:
+    cmds:
+      - mkdocs serve
+
+  build:
+    cmds:
+       - mkdocs build
+  
+  create:
+    cmds:
+      - touch 
+
+  deploy:
+    cmds:
+      - cd /harveyitisme.github.io
+      - mkdocs gh-deploy --config-file ../mkdocs.yml --remote-branch main
